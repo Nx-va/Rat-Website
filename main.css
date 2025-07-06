@@ -1,0 +1,21 @@
+html { 
+            font-size: 25px;
+        }
+        body { 
+            background-color: rgba(0, 0, 0, 0.614);
+            color: azure;
+        }
+
+        a {
+            color: aliceblue;
+        }
+
+        a:visited {
+            color: lightgray;
+        }
+
+        a:hover a:active {
+            color: #eee;
+        }
+
+        
